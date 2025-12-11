@@ -9,4 +9,4 @@ This is the course project submission for CSCI 2470, 2025 Fall semester. The tit
 * inr_main.py orchestrates all the above mentioned files, where all the modules are called and training of the model is set to True.
 * for additional post-processing, check the jupyter notebook where I do some FFT spectral analysis of the obtained results.
 
-  ![Solution Plot](plots/reconstructed_fields.png)
+  ![Solution Plot](plots/reconstructed_outputs.png)

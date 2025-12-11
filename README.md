@@ -7,6 +7,7 @@ This is the course project submission for CSCI 2470, 2025 Fall semester. The tit
 * inr_wrapper.py wraps all the individual components into a single module.
 * inr_train.py has the code for the training loop and the inference.py has relevant functions for model inference.
 * inr_main.py orchestrates all the above mentioned files, where all the modules are called and training of the model is set to True.
-* for additional post-processing, check the jupyter notebook where I do some FFT spectral analysis of the obtained results.
+* For additional post-processing, check the jupyter notebook where I do some FFT spectral analysis of the obtained results.
+* The tranformer codes were tried for training the autoregressive rollout of the latent vectors. However, the results weren't satisfactory and hence, I don't pursue further analysis on it for now.
 
   ![Solution Plot](plots/reconstructed_outputs.png)
